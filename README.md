@@ -1,4 +1,4 @@
-# Smart Bot Control: Event-Triggered PID Tuning with PSO
+# Event Horizon: Event-Triggered PID Tuning with PSO
 
 This project demonstrates an intelligent control strategy where a path-following robot is optimized using **Particle Swarm Optimization (PSO)**.
 
