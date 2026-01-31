@@ -18,8 +18,14 @@ The simulation, built with PyGame, showcases how PSO can discover the optimal PI
 Watch as the PSO algorithm refines the control parameters over generations, teaching the bot to follow the path with increasing precision.
 
 **PSO Training Process**
+Watch the algorithm learning the optimal values in action accompanied by a plot displaying the evolution of scores!
+
 <kbd><img src="https://github.com/SoumyodiptaNath/Event_Triggered_Control_using_PSO/assets/122808862/883c3bf5-5b35-4a74-9183-24bc4d922abf" alt="PSO Training GIF"> </kbd>
 <br/><br/>
+
+<kbd><img width="3000" height="1800" alt="EVOLUTION OF SCORES" src="https://github.com/user-attachments/assets/528acf68-8cbd-4db7-ad40-e39b19a8f67d" /></kbd>
+<br/><br/>
+
 
 **ETC vs. Traditional Control**
 Notice how the Event-Triggered bot (right) achieves the same performance as the Time-Triggered bot (left) but with significantly fewer control updates (indicated by the red flashes).
